@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="artifactory-release" />
+      <option name="name" value="repo.intra.pixel.com.pl-releases" />
+      <option name="url" value="http://repo.intra.pixel.com.pl:8081/artifactory/med-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo.intra.pixel.com.pl" />
+      <option name="name" value="repo.intra.pixel.com.pl-releases" />
+      <option name="url" value="http://repo.intra.pixel.com.pl:8081/artifactory/med-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mvnrepo" />
+      <option name="name" value="mvnrepo" />
+      <option name="url" value="https://mvnrepository.com/artifact" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pixel-snapshot" />
+      <option name="name" value="Pixel Medical Snapshot Repository" />
+      <option name="url" value="http://svn/med/maven-repository/snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="quizit-release" />
+      <option name="name" value="Quizit artifactory release" />
+      <option name="url" value="http://10.71.34.23/artifactory/q-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory" />
+      <option name="name" value="artifactory" />
+      <option name="url" value="http://repo.intra.pixel.com.pl:8081/artifactory/repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="projectlombok.org" />
+      <option name="name" value="projectlombok.org" />
+      <option name="url" value="http://projectlombok.org/mavenrepo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="med-pixel-snapshot" />
+      <option name="name" value="Pixel Snapshot Repository" />
+      <option name="url" value="http://svn/med/maven-repository/snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pixel-artifactory" />
+      <option name="name" value="pixel.repo" />
+      <option name="url" value="http://repo.intra.pixel.com.pl:8081/artifactory/repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo2" />
+      <option name="name" value="med-release" />
+      <option name="url" value="http://nrepo.intra.pixel.com.pl:8082/artifactory/repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.springsource.repository.bundles.external" />
+      <option name="name" value="SpringSource Enterprise Bundle Repository - External Bundle Releases" />
+      <option name="url" value="http://repository.springsource.com/maven/bundles/external" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pixel-release" />
+      <option name="name" value="Pixel Medical Release Repository" />
+      <option name="url" value="http://svn/med/maven-repository/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="quizit-snapshot" />
+      <option name="name" value="Quizit artifactory snapshot" />
+      <option name="url" value="http://10.71.34.23/artifactory/q-snapshot" />
+    </remote-repository>
+  </component>
+</project>
